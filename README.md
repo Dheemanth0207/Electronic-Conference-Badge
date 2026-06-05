@@ -10,6 +10,16 @@ To reliably support all of these features, the hardware integrates a combination
 
 All design work, including schematic creation and PCB layout, was completed using the open-source KiCAD 9 design tool, ensuring that the board is optimized for surface-mount manufacturing. By combining low-power electronics, open-source design tools, and a thoughtful user interface, this badge system offers a modern, reusable, and sustainable alternative to traditional paper-based identification at events. 
 
+## Hardware Preview
+
+### Schematic
+![Schematic](docs/images/schematic.png)
+
+### PCB Layout
+![PCB Layout](docs/images/pcb.png)
+
+### 3D Render
+![3D Render](docs/images/render.png)
 
 ## 🛠️ Requirements
 
