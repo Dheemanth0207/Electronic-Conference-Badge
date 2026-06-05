@@ -1,4 +1,0 @@
-(version 1)
-(rule "Clearance: Allow shorting of stacked 'no connect' pads"
-   (constraint clearance (min -1mm))
-   (condition "A.Type == 'Pad' && B.Type == 'Pad' && A.Net != B.Net && A.NetName == 'unconnected-*' && B.NetName == 'unconnected-*'"))
